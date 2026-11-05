@@ -1,0 +1,6 @@
+# KiCad local state
+*.kicad_prl
+*.lck
+
+# KiCad's local file-history repository
+/PCB/watch_clock/.history/
